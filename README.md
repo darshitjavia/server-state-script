@@ -70,3 +70,5 @@ johndoe   1234  0.1  0.5 876543 45678 ?        Sl   Sep18   0:30 /usr/lib/firefo
 ## **Portability**
 
 This script is intentionally designed for maximum portability. It avoids using any distribution-specific commands or flags. Instead, it relies on a core set of POSIX-compliant utilities (ps, df, awk, etc.) that are guaranteed to be present and function consistently across a wide range of Linux systems. This ensures that the script will work out-of-the-box without modification, whether you are on a Debian-based server or an RHEL-based enterprise system.
+
+https://roadmap.sh/projects/server-stats
